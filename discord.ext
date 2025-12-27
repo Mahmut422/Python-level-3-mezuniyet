@@ -1,0 +1,6 @@
+{
+  "Pazartesi": [
+    {"saat": "10:00", "ders": "Matematik", "egitmen": "Ahmet Hoca"},
+    {"saat": "14:00", "ders": "Fizik", "egitmen": "Zeynep Hoca"}
+  ]
+}
